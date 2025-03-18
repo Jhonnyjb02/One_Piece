@@ -1,0 +1,136 @@
+{
+    "peliculas": [
+      {
+        "id": 1,
+        "titulo": "Transformers (2007)",
+        "director": "Michael Bay",
+        "ano": 2007,
+        "duracion": "144 min",
+        "sinopsis": "La guerra entre Autobots y Decepticons llega a la Tierra cuando un adolescente descubre que su auto es un robot alienígena.",
+        "transformers_principales": ["Optimus Prime", "Bumblebee", "Megatron"],
+        "poster": "https://static.wikia.nocookie.net/transformersmoviecharacters/images/6/66/Transformers_movie_poster_megatron_optimus_prime.jpg/revision/latest?cb=20120215182113&path-prefix=es",
+        "rating": 7.1
+      },
+      {
+        "id": 2,
+        "titulo": "Transformers: La venganza de los caídos (2009)",
+        "director": "Michael Bay",
+        "ano": 2009,
+        "duracion": "150 min",
+        "sinopsis": "Los Autobots descubren un antiguo secreto mientras combaten a una nueva amenaza Decepticon en Egipto.",
+        "transformers_principales": ["Jetfire", "The Fallen", "Devastator"],
+        "poster": "https://pics.filmaffinity.com/Transformers_La_venganza_de_los_caaidos-810688512-large.jpg",
+        "rating": 6.0
+      },
+      {
+        "id": 3,
+        "titulo": "Transformers: El lado oscuro de la luna (2011)",
+        "director": "Michael Bay",
+        "ano": 2011,
+        "duracion": "154 min",
+        "sinopsis": "Los Autobots investigan tecnología alienígena oculta en los archivos de la misión Apolo.",
+        "transformers_principales": ["Sentinel Prime", "Shockwave", "Laserbeak"],
+        "poster": "https://i.ytimg.com/vi/QNif1p2YSAI/sddefault.jpg",
+        "rating": 6.3
+      },
+      {
+        "id": 4,
+        "titulo": "Transformers: La era de la extinción (2014)",
+        "director": "Michael Bay",
+        "ano": 2014,
+        "duracion": "165 min",
+        "sinopsis": "Cazadores de robots y una nueva raza de Transformers amenazan la supervivencia de los Autobots.",
+        "transformers_principales": ["Lockdown", "Grimlock", "Galvatron"],
+        "poster": "https://http2.mlstatic.com/D_NQ_NP_982415-MLU70378733187_072023-O.webp",
+        "rating": 5.7
+      },
+      {
+        "id": 5,
+        "titulo": "Transformers: El último caballero (2017)",
+        "director": "Michael Bay",
+        "ano": 2017,
+        "duracion": "154 min",
+        "sinopsis": "La historia secreta entre Transformers y humanos se revela en una batalla por el destino de Cybertron.",
+        "transformers_principales": ["Quintessa", "Cogman", "Nitro Zeus"],
+        "poster": "https://i.ytimg.com/vi/qmxeLtg-YEg/maxresdefault.jpg",
+        "rating": 5.2
+      },
+      {
+        "id": 6,
+        "titulo": "Bumblebee (2018)",
+        "director": "Travis Knight",
+        "ano": 2018,
+        "duracion": "114 min",
+        "sinopsis": "El origen de Bumblebee en la Tierra durante los años 80, protegiendo a una joven adolescente.",
+        "transformers_principales": ["Bumblebee", "Shatter", "Dropkick"],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOThmZGU5ZWQtODE4ZC00ODQ0LTllYzgtNzk3MWRmODQxOWY0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "rating": 6.7
+      },
+      {
+        "id": 7,
+        "titulo": "Transformers: El despertar de las bestias (2023)",
+        "director": "Steven Caple Jr.",
+        "ano": 2023,
+        "duracion": "127 min",
+        "sinopsis": "Los Maximals y Terrorbots se unen a la guerra entre Autobots y Decepticons en los años 90.",
+        "transformers_principales": ["Optimus Primal", "Scourge", "Airazor"],
+        "poster": "https://d2kur4ni8bifdq.cloudfront.net/wp-content/uploads/2023/06/01234511/El-Despertar-De-Las-Bestias-01.jpg",
+        "rating": 6.1
+      },
+      {
+        "id": 8,
+        "titulo": "The Transformers: The Movie (1986)",
+        "director": "Nelson Shin",
+        "ano": 1986,
+        "duracion": "85 min",
+        "sinopsis": "Clásico animado donde Unicron amenaza con devorar Cybertron mientras Optimus Prime enfrenta su destino.",
+        "transformers_principales": ["Hot Rod", "Unicron", "Galvatron"],
+        "poster": "https://static.wikia.nocookie.net/transformers/images/2/29/Tftm_uk_covers.jpg/revision/latest/scale-to-width-down/643?cb=20071202151158",
+        "rating": 7.3
+      },
+      {
+        "id": 9,
+        "titulo": "Transformers: Beast Wars (1996)",
+        "director": "Steve Sacks",
+        "ano": 1996,
+        "duracion": "45 min",
+        "sinopsis": "Película animada que introduce a los Maximals y Predacons en la era prehistórica de la Tierra.",
+        "transformers_principales": ["Optimus Primal", "Megatron", "Dinobot"],
+        "poster": "https://tfwiki.net/mediawiki/images2/thumb/4/4f/Beast_Era_Compilation.jpg/500px-Beast_Era_Compilation.jpg",
+        "rating": 7.8
+      },
+      {
+        "id": 10,
+        "titulo": "Transformers: La chispa oscura (2021)",
+        "director": "Jennifer Yuh Nelson",
+        "ano": 2021,
+        "duracion": "68 min",
+        "sinopsis": "Aventura animada donde los Autobots deben proteger la Chispa Oscura de los Decepticons.",
+        "transformers_principales": ["Hot Rod", "Soundwave", "Shockwave"],
+        "poster": "https://i.ytimg.com/vi/Tk1krGz4x3M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDt2f4JcPH-PYXMOW4jWMnPuDgvmw",
+        "rating": 5.9
+      },
+      {
+        "id": 11,
+        "titulo": "Transformers: Cybertron (1987)",
+        "director": "Kozo Morishita",
+        "ano": 1987,
+        "duracion": "75 min",
+        "sinopsis": "Película animada japonesa que continúa la saga original con nuevos líderes y amenazas cósmicas.",
+        "transformers_principales": ["Fortress Maximus", "Scorponok", "Sixshot"],
+        "poster": "https://www.unicron.us/tf1987/package_art/1987boxart.big.jpg",
+        "rating": 6.8
+      },
+      {
+        "id": 12,
+        "titulo": "Transformers: La venganza de los caídos (Animada) (2009)",
+        "director": "Matt Youngberg",
+        "ano": 2009,
+        "duracion": "60 min",
+        "sinopsis": "Versión animada alternativa de la película live-action con nuevos diseños y personajes.",
+        "transformers_principales": ["Jetfire", "The Fallen", "Sideswipe"],
+        "poster": "https://cdn.sincroguia.tv/uploads/programs/t/r/a/transformers-la-venganza-de-los-caidos-141544_SPA-84.jpg",
+        "rating": 6.0
+      }
+    ]
+  }
